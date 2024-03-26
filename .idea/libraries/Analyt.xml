@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Analyt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Work1AdditionalLibs.zip!/Work1AdditionalLibs/Analyt" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../../Work1AdditionalLibs.zip!/Work1AdditionalLibs/Analyt" recursive="false" />
+  </library>
+</component>

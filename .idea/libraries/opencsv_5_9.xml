@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="opencsv-5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../opencsv-5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jcm1.0-config.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../exp4j-0.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../commons-lang3-3.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
